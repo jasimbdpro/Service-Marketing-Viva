@@ -37,3 +37,9 @@ color: #6d6d6d;
     padding-left: 20px;
     color: #6d6d6d;
 }
+body > div > div{
+    background-color: rgb(254, 240, 222);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
