@@ -31,5 +31,9 @@ h4{
     background-color: #d3d3d3;
 }
 ol > li{
-color: #6d6d6d
-;}
+color: #6d6d6d;
+}
+#hetero{
+    padding-left: 20px;
+    color: #6d6d6d;
+}
