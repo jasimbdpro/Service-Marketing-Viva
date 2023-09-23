@@ -6,4 +6,7 @@
     color: hsl(0, 0%, 9%);
     font-family: 'Courier New', Courier, monospace sans-serif;
     font-weight: 900;
+.first33{
+    font-size: 1.2em;
+    font-weight: 700;
 }
