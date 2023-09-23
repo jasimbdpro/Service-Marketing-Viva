@@ -1,9 +1,9 @@
 *{
     color: rgb(61, 61, 61);
 }
-#subject{
+h1#subject{
     text-align: center;
-    color: rgb(255, 0, 0);
+    color: #21b7ce;
 }
 .top{
     font-family: 'Courier New', Courier, monospace sans-serif;
@@ -18,7 +18,8 @@ h3{
     color: black;
 }
 h4{
-    color: black;
+    color: rgb(112, 55, 55);
+    text-decoration-line: underline;
 }
 
 .topic{
