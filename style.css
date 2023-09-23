@@ -1,0 +1,9 @@
+#subject{
+    text-align: center;
+    color: orange;
+}
+.top{
+    color: hsl(0, 0%, 9%);
+    font-family: 'Courier New', Courier, monospace sans-serif;
+    font-weight: 900;
+}
