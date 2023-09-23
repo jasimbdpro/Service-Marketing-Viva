@@ -1,12 +1,27 @@
+*{
+    color: rgb(61, 61, 61);
+}
 #subject{
     text-align: center;
-    color: orange;
+    color: rgb(255, 0, 0);
 }
 .top{
-    color: hsl(0, 0%, 9%);
     font-family: 'Courier New', Courier, monospace sans-serif;
     font-weight: 900;
-.first33{
-    font-size: 1.2em;
-    font-weight: 700;
+}
+
+ol li span.first33 {
+    font-size: 1.05em;
+    font-weight: 600;
+}
+h3{
+    color: black;
+}
+h4{
+    color: black;
+}
+
+.topic{
+    text-align: center;
+    background-color: #d3d3d3;
 }
